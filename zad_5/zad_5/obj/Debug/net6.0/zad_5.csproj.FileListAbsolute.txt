@@ -1,0 +1,14 @@
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\bin\Debug\net6.0\zad_5.exe
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\bin\Debug\net6.0\zad_5.deps.json
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\bin\Debug\net6.0\zad_5.runtimeconfig.json
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\bin\Debug\net6.0\zad_5.dll
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\bin\Debug\net6.0\zad_5.pdb
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.AssemblyInfo.cs
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.dll
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\refint\zad_5.dll
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.pdb
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\zad_5.genruntimeconfig.cache
+C:\Users\Mati\Desktop\wejsciowka\zad_5\zad_5\obj\Debug\net6.0\ref\zad_5.dll
