@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zadania_20231216/1.0.0": {
+        "runtime": {
+          "zadania_20231216.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadania_20231216/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
